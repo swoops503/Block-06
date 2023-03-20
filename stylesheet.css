@@ -1,0 +1,81 @@
+body {
+    background-image: url("veggies-bruh.jpg");
+    background-repeat: no-repeat;
+}
+
+h1 {
+    border:2px solid black;
+    color: white;
+    text-align: center;
+    background-color: green;
+    border-radius: 25px;
+
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+.beegdiv1 {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.box1 {
+    border:2px solid black;
+    padding: 10px;
+    margin: 5px;
+    width: 200px;
+    background-color: purple;
+    border-radius: 25px;
+
+}
+
+.box2 {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 5px;
+    width: 200px;
+    background-color: purple;
+    border-radius: 25px;
+    
+}
+
+ul {
+    color: white;
+    text-align: center;
+}
+
+img {
+    width: 350px;
+    height: 250px;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.beegdiv2 {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.box3 {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 5px;
+    width: 200px;
+    background-color: purple;
+    border-radius: 25px;
+}
+
+.box4 {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 5px;
+    width: 200px;
+    background-color: purple;
+    border-radius: 25px;
+}
+
